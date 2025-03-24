@@ -1,2 +1,2 @@
 # Eaglercraft-beta-1.3
-The download link for Eaglercraft Beta 1.3
+The download link for Eaglercraft Beta 1.3.  Click on the Singleplayer_Offline_Download_Version.zip and click on the download button that looks like an arrow pointing at a box. The file should download. Once you have downloaded the file, double click on it to open it. It should launch a tab somewhere on the lines of file:///home/chronos/u35b2396deca7fb31ee5464d1a262229da73ffcda/MyFiles/Downloads/Singleplayer_Offline_Download_Version.html
